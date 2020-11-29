@@ -1,0 +1,81 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\gera_\\ProyectosUnity\\Practica6\\Temp\\gradleOut\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\gera_\\.gradle\\caches\\transforms-2\\files-2.1\\30a81138a95f49d88d099aa5c3921260\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,5,8,9,10,13,16,19,22,25,28,31,34,37,40,43,46,50,54,57,60,61,64,67,70,73,76,79,84,89,93,101",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "196,249,376,427,481,617,848,1152,1439,1622,1959,2292,2491,2688,2898,3108,3239,3535,3831,4137,4363,4566,4768,5049,5374,5577,5876,6085,6352,6599,6735,7066",
+                        "endLines": "4,5,8,9,10,15,18,21,24,27,30,33,36,39,42,45,49,53,56,59,60,63,66,69,72,75,78,81,86,90,98,107",
+                        "endColumns": "52,49,50,53,57,11,13,11,11,11,13,13,11,11,11,11,11,11,13,11,202,13,13,13,11,13,13,13,8,8,8,8",
+                        "endOffsets": "248,298,426,480,538,847,1151,1438,1621,1958,2291,2490,2687,2897,3107,3238,3534,3830,4136,4362,4565,4767,5048,5373,5576,5875,6084,6275,6510,6658,6977,7416"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,9,12,15,18,21,24,27,30,33,36,39,42,46,51,54,57,58,61,64,67,70,73,76,81,84,86,99",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,162,216,271,329,488,723,1031,1322,1509,1850,2192,2395,2596,2810,3024,3159,3459,3827,4137,4367,4574,4780,5065,5390,5597,5900,6113,6408,6571,6635,7247",
+                        "endLines": "2,3,4,5,6,11,14,17,20,23,26,29,32,35,38,41,45,49,53,56,57,60,63,66,69,72,75,78,83,85,91,105",
+                        "endColumns": "56,53,54,57,61,11,13,11,11,11,13,13,11,11,11,11,11,11,13,11,206,13,13,13,11,13,13,13,8,8,8,8",
+                        "endOffsets": "157,211,266,324,386,718,1026,1317,1504,1845,2187,2390,2591,2805,3019,3154,3454,3754,4132,4362,4569,4775,5060,5385,5592,5895,6108,6303,6566,6630,6877,7597"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\gera_\\ProyectosUnity\\Practica6\\Temp\\gradleOut\\launcher\\src\\main\\res\\values\\ids.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "391",
+                        "endColumns": "45",
+                        "endOffsets": "432"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\gera_\\ProyectosUnity\\Practica6\\Temp\\gradleOut\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "55,105",
+                        "endColumns": "48,65",
+                        "endOffsets": "101,168"
+                    },
+                    "to": {
+                        "startLines": "8,50",
+                        "startColumns": "4,4",
+                        "startOffsets": "437,3759",
+                        "endColumns": "50,67",
+                        "endOffsets": "483,3822"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\gera_\\ProyectosUnity\\Practica6\\Temp\\gradleOut\\launcher\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "79,92,95",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "6308,6882,7020",
+                        "endLines": "80,94,98",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "6403,7015,7242"
+                    }
+                }
+            ]
+        }
+    ]
+}
